@@ -1,0 +1,42 @@
+psycopg2-binary==2.8.6
+
+
+# SELECT * FROM converter_addrip
+# SELECT * FROM converter_addrgrp
+# SELECT * FROM converter_policy
+# SELECT * FROM converter_origpolicycombination
+# SELECT * FROM converter_servgrp ***
+# SELECT * FROM converter_servother ***
+# SELECT * FROM converter_servtcpudp ***
+# SELECT * FROM converter_addrrange ***
+# SELECT * FROM converter_centralnat ***
+# SELECT * FROM converter_fortiif ***
+# SELECT * FROM converter_fortisystemdns ***
+# SELECT * FROM converter_addrdomain ***
+# SELECT * FROM converter_ippool ***
+# SELECT * FROM converter_displayif
+# SELECT * FROM converter_displayroute
+# SELECT * FROM converter_displayvpn
+# SELECT * FROM converter_fortifirewallsetting
+# SELECT * FROM converter_fortisystemglobal
+# SELECT * FROM converter_fortisystemha
+# SELECT * FROM converter_fortisystemntp
+# SELECT * FROM converter_fortisystemsessionttl
+# SELECT * FROM converter_fortisystemsnmpinfo
+# SELECT * FROM converter_fortiwebproxyexplicit
+# SELECT * FROM converter_radius
+# SELECT * FROM converter_routerbgp
+# SELECT * FROM converter_routerisis
+# SELECT * FROM converter_routermulticast
+# SELECT * FROM converter_routerospf
+# SELECT * FROM converter_staticroute
+# SELECT * FROM converter_usergroup
+# SELECT * FROM converter_userlocal
+# SELECT * FROM converter_vdommapping
+# SELECT * FROM converter_vip
+# SELECT * FROM converter_vpnphase1
+# SELECT * FROM converter_vpnphase2
+# SELECT * FROM converter_vpnptp
+# SELECT * FROM converter_vpnssl
+# SELECT * FROM converter_vpnsslportal
+# SELECT * FROM converter_zone
